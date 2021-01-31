@@ -1,4 +1,7 @@
 # python-Oauth-kakao
+
+![image](https://user-images.githubusercontent.com/47492535/106387448-286d1a00-641d-11eb-963d-95edde4750ec.png)
+
 Python을 이용한 Kakao Oauth 연동 로그인 예제입니다.
 
 테스트한 프레임워크는 Flask이지만 Flask에 종속된 기능을 전혀 사용하지 않았기 때문에 
